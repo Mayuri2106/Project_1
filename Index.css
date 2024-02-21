@@ -1,0 +1,145 @@
+
+.Box1{
+    height: 592px;
+    width: 1440px;
+    background-color: #FFCD9E;
+}
+
+h2{
+    width: 562px;
+    height: 108px;
+    position: absolute;
+    top: 83px;
+    left: 136px;
+    font-size: 36px;
+    font-weight: 700;
+    
+}
+
+#para-1{
+    width: 495px;
+    height: 81px;
+    position: absolute;
+    top: 219px;
+    left: 136px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h3{
+    width: 227px;
+    height: 81px;
+    position: absolute;
+    top: 315px;
+    left: 136px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#input-1{
+    position: absolute;
+    top: 411px;
+    left: 136px;
+
+}
+
+input{
+    width: 344px;
+    height: 64px;
+    border: 4px solid black;
+    border-radius: 8px ;
+    font-size: 20px;
+    text-align: center;
+}
+
+button{
+    width:216px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #282828;
+    color: white;
+    font-size: 20px;
+    margin-left: 18px;
+}
+
+#para-2{
+    width: 344px;
+    height: 61px;
+    font-weight: 500;
+    font-size: 16px;
+    position: absolute;
+    top: 479px;
+    left: 180px;
+    color: white;
+
+}
+
+#image-container-1{
+    width: 575px;
+    height: 575px;
+    position: absolute;
+    top: 27px;
+    left: 818px;
+    
+}
+
+.Box2{
+    width: 1440px;
+    height: 298px;
+    background-color: #282828;
+    color: white;
+  
+}
+
+ul{
+    list-style-type: none;
+}
+
+#List1{
+    position: absolute;
+    top: 654px;
+    left: 191px;
+    float:left;
+    size: 20px;
+}
+
+#List1 li{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#para3{
+    width: 148px;
+    height: 36px;
+    position: absolute;
+    top: 654px;
+    left: 1125px;
+    font-size: 20px;
+}
+
+#para4{
+    width: 232px;
+    height: 36px;
+    position: absolute;
+    top: 685px;
+    left: 1015px;
+    font-size: 20px;;
+    
+}
+
+.image-container-2{
+    display: flex;
+    position: absolute;
+    top: 728.58px;
+    left: 1150px;
+    margin-top: 10px;
+   
+
+}
+
+#para5{
+    position: absolute;
+    top: 775px;
+    left: 1080px;
+    font-size: 20px;
+}
